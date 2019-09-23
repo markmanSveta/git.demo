@@ -7,3 +7,7 @@ song text 3
 song text 4
 song line 5
 song line 6
+
+song text 4
+song line 5
+song line 6
